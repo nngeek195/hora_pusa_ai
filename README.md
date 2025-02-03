@@ -1,6 +1,6 @@
 # Hora Pusa AI 
 
-- This is a Simple Algorithm collection use to detect animals and their skint tones.
+- This is a Algorithm system which we can use to detect animals and their skint tones.
 - haarcascade_frontalcatface.xml file is the main charactor I use in here.
 
 ## How use this (Developers)
